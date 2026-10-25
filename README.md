@@ -4,14 +4,15 @@ Computer Science student at UiTM
 
 ## About me
 - Studying: Computer Science, UiTM
-- Currently learning: [topics]
-- My FYP area: still deciding
+- Currently learning: Project formulation, parallel prog, Algorithm. 
+- My FYP area: Artificial Intelligence
 
 ## Skills and tools
-[List what you know. Example: Python, Git, SQL]
+MySql, Java, HTML & CSS, C++.
+Microsoft Word, Excel and PowerPoint. 
 
 ## Projects
-- [Project name](link-to-your-repository): one sentence about it
+- No project yet
 
 ## Contact
 - LinkedIn: github.com/famizaazmi
